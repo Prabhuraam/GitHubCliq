@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "targets": [
+      "python_git_hub_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  }
+}

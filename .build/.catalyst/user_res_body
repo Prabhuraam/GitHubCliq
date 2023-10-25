@@ -1,0 +1,1 @@
+{"output": {"buttons": [{"label": "Create Webhook", "type": "+", "action": {"type": "invoke.function", "data": {"name": "authenticate"}, "confirm": {"title": "Generate Webhooks for a GitLab Project", "description": "Connect to GitLab Projects from within Cliq", "input": "user_webhook_token"}}}]}}
